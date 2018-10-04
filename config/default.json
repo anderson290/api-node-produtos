@@ -1,0 +1,5 @@
+{
+    "database": {
+        "mongoUrl": "mongodb://anderson29:hunteronce29@ds119853.mlab.com:19853/programa_de_formacao"
+    }
+}
